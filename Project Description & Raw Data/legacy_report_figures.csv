@@ -1,0 +1,17 @@
+report_id,as_of,measure,dimension,value
+R01,2026-03 (calendar month),Sales value,Beauty,4602737.88
+R01,2026-03 (calendar month),Sales value,Front shop,2777620.33
+R01,2026-03 (calendar month),Sales value,Dispensary,2646973.04
+R01,2026-03 (calendar month),Sales value,Baby,2249005.00
+R01,2026-03 (calendar month),Sales value,Pharmacy OTC,1413663.25
+R01,2026-03 (calendar month),Sales value,Wellness food,492547.99
+R03,2026-06-24,Members,All,6240
+R07,12 weeks from 2026-03-02,"Uplift in average spend, mailed against not mailed",All members,189.4
+R12,FY2026,"Average spend per member, current tier",Blue,6285.70
+R12,FY2026,"Average spend per member, current tier",Silver,19447.28
+R12,FY2026,"Average spend per member, current tier",Gold,49087.03
+R12,FY2026,"Average spend per member, current tier",Platinum,115972.07
+R11,2026-03 (calendar month),Script units,"R1,531 and above",239
+R11,2026-03 (calendar month),Script units,R159 to R423,811
+R11,2026-03 (calendar month),Script units,"R424 to R1,530",2206
+R11,2026-03 (calendar month),Script units,Under R159,386
