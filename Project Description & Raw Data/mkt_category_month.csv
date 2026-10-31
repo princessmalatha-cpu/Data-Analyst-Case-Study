@@ -1,0 +1,109 @@
+month,category,sales_value,source
+2025-01,Baby,1562899.38,marketing extract
+2025-01,Beauty,2894992.73,marketing extract
+2025-01,Dispensary,2855085.96,marketing extract
+2025-01,Front shop,2280052.30,marketing extract
+2025-01,Pharmacy OTC,1114726.71,marketing extract
+2025-01,Wellness food,309131.44,marketing extract
+2025-02,Baby,1404010.19,marketing extract
+2025-02,Beauty,2783514.89,marketing extract
+2025-02,Dispensary,2697354.10,marketing extract
+2025-02,Front shop,2108988.13,marketing extract
+2025-02,Pharmacy OTC,1028618.82,marketing extract
+2025-02,Wellness food,283156.25,marketing extract
+2025-03,Baby,1653934.91,marketing extract
+2025-03,Beauty,2780592.00,marketing extract
+2025-03,Dispensary,2902358.90,marketing extract
+2025-03,Front shop,2249176.12,marketing extract
+2025-03,Pharmacy OTC,1094998.83,marketing extract
+2025-03,Wellness food,338385.60,marketing extract
+2025-04,Baby,1527836.57,marketing extract
+2025-04,Beauty,2820983.32,marketing extract
+2025-04,Dispensary,2769202.90,marketing extract
+2025-04,Front shop,2144899.01,marketing extract
+2025-04,Pharmacy OTC,1038484.52,marketing extract
+2025-04,Wellness food,324069.91,marketing extract
+2025-05,Baby,1590656.29,marketing extract
+2025-05,Beauty,2872358.83,marketing extract
+2025-05,Dispensary,3107321.64,marketing extract
+2025-05,Front shop,2255515.91,marketing extract
+2025-05,Pharmacy OTC,1094328.22,marketing extract
+2025-05,Wellness food,364833.93,marketing extract
+2025-06,Baby,1503415.84,marketing extract
+2025-06,Beauty,2791068.75,marketing extract
+2025-06,Dispensary,2786702.09,marketing extract
+2025-06,Front shop,2026902.15,marketing extract
+2025-06,Pharmacy OTC,1030624.28,marketing extract
+2025-06,Wellness food,346728.07,marketing extract
+2025-07,Baby,1597307.84,marketing extract
+2025-07,Beauty,3164063.58,marketing extract
+2025-07,Dispensary,2932176.81,marketing extract
+2025-07,Front shop,2192151.66,marketing extract
+2025-07,Pharmacy OTC,1071400.80,marketing extract
+2025-07,Wellness food,370044.88,marketing extract
+2025-08,Baby,1596157.46,marketing extract
+2025-08,Beauty,2930751.07,marketing extract
+2025-08,Dispensary,2958215.01,marketing extract
+2025-08,Front shop,2125572.06,marketing extract
+2025-08,Pharmacy OTC,1109765.94,marketing extract
+2025-08,Wellness food,371434.35,marketing extract
+2025-09,Baby,1487514.54,marketing extract
+2025-09,Beauty,3046829.30,marketing extract
+2025-09,Dispensary,3044364.23,marketing extract
+2025-09,Front shop,2107403.91,marketing extract
+2025-09,Pharmacy OTC,1056290.56,marketing extract
+2025-09,Wellness food,341432.67,marketing extract
+2025-10,Baby,1756348.10,marketing extract
+2025-10,Beauty,3153616.53,marketing extract
+2025-10,Dispensary,3063510.94,marketing extract
+2025-10,Front shop,2175285.37,marketing extract
+2025-10,Pharmacy OTC,1101872.65,marketing extract
+2025-10,Wellness food,401812.10,marketing extract
+2025-11,Baby,1597660.72,marketing extract
+2025-11,Beauty,3104473.61,marketing extract
+2025-11,Dispensary,2887601.32,marketing extract
+2025-11,Front shop,2182113.24,marketing extract
+2025-11,Pharmacy OTC,1177802.71,marketing extract
+2025-11,Wellness food,381747.62,marketing extract
+2025-12,Baby,1689662.03,marketing extract
+2025-12,Beauty,3273596.63,marketing extract
+2025-12,Dispensary,3229053.68,marketing extract
+2025-12,Front shop,2277302.89,marketing extract
+2025-12,Pharmacy OTC,1111242.48,marketing extract
+2025-12,Wellness food,382558.69,marketing extract
+2026-01,Baby,1683740.86,marketing extract
+2026-01,Beauty,3306966.86,marketing extract
+2026-01,Dispensary,2976009.87,marketing extract
+2026-01,Front shop,2160914.57,marketing extract
+2026-01,Pharmacy OTC,1112645.56,marketing extract
+2026-01,Wellness food,386355.69,marketing extract
+2026-02,Baby,1515921.94,marketing extract
+2026-02,Beauty,2950368.70,marketing extract
+2026-02,Dispensary,2840144.90,marketing extract
+2026-02,Front shop,1986293.11,marketing extract
+2026-02,Pharmacy OTC,1029187.63,marketing extract
+2026-02,Wellness food,359756.76,marketing extract
+2026-03,Baby,1926516.85,marketing extract
+2026-03,Beauty,3671946.54,marketing extract
+2026-03,Dispensary,3090476.84,marketing extract
+2026-03,Front shop,2363404.10,marketing extract
+2026-03,Pharmacy OTC,1239885.61,marketing extract
+2026-03,Wellness food,410001.49,marketing extract
+2026-04,Baby,2031432.47,marketing extract
+2026-04,Beauty,3637714.49,marketing extract
+2026-04,Dispensary,3089611.39,marketing extract
+2026-04,Front shop,2330727.09,marketing extract
+2026-04,Pharmacy OTC,1191392.54,marketing extract
+2026-04,Wellness food,407838.42,marketing extract
+2026-05,Baby,1936861.19,marketing extract
+2026-05,Beauty,3906696.69,marketing extract
+2026-05,Dispensary,3086615.79,marketing extract
+2026-05,Front shop,2382012.44,marketing extract
+2026-05,Pharmacy OTC,1311445.71,marketing extract
+2026-05,Wellness food,451375.88,marketing extract
+2026-06,Baby,1132650.44,marketing extract
+2026-06,Beauty,2242593.84,marketing extract
+2026-06,Dispensary,2098491.75,marketing extract
+2026-06,Front shop,1347290.03,marketing extract
+2026-06,Pharmacy OTC,725113.06,marketing extract
+2026-06,Wellness food,266897.95,marketing extract
