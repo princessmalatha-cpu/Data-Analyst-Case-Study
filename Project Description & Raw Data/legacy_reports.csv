@@ -1,0 +1,13 @@
+report_id,report_name,tool,owner_team,refresh,definition,views_90d,last_viewed
+R01,Category Sales Monthly,SAP BW,Merchandise,Monthly,Sales value by category per calendar month. Sales value is the till amount before discounts. Returns are included so that the report shows all till activity.,412,2026-06-29
+R02,Net Sales by Store,Power BI,Retail Operations,Daily,"Net sales after discounts, including dispensing fees, by store and fiscal period on the 4-4-5 calendar.",655,2026-06-30
+R03,Loyalty Member Count,Qlik,Wellness Club,Weekly,Number of members: count of customer records in the loyalty master.,88,2026-06-24
+R04,Dispensary Revenue,Power BI,Pharmacy,Weekly,"Dispensary revenue: total value of script lines dispensed, being Single Exit Price plus dispensing fee.",210,2026-06-28
+R05,Discount Spend by Category,Power BI,Marketing,Monthly,Discount amount by category and by funder per calendar month.,143,2026-06-26
+R06,Store Trading Daily,Grafana,Retail Operations,Hourly,"Net sales per store per day for the last 90 days, with an alert when a store trades 30% below its own 8-week average.",1340,2026-06-30
+R07,Wellness Club Campaign Uplift,Power BI,Marketing,Once-off,"Average spend of members who received the March 2026 activation against members who did not, over the 12 weeks after send.",64,2026-06-12
+R08,Category Sales Monthly (v2),Power BI,Merchandise,Monthly,Copy of the BW category sales report rebuilt in Power BI. Uses net sales after discounts.,19,2026-05-30
+R09,Baby Range Performance,Qlik,Baby,Monthly,Net sales and units by baby subcategory per calendar month.,0,2026-02-11
+R10,Front Shop Promo Tracker,Qlik,Marketing,Weekly,Discount value by funder for front shop lines.,4,2026-05-08
+R11,Script Volume by Fee Band,SAP BW,Pharmacy,Monthly,Number of script units dispensed by dispensing-fee band and calendar month.,158,2026-06-29
+R12,Member Spend by Tier,Power BI,Wellness Club,Weekly,Average spend per member over the last fiscal year by loyalty tier.,236,2026-06-30
